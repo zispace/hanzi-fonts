@@ -1,0 +1,9 @@
+# macos
+.DS_Store
+
+# linux
+*~
+
+trash/
+todo/
+temp/
