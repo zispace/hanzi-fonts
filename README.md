@@ -4,7 +4,9 @@
 
 - 字体文件统计信息可参见 [文件](./stats.tsv)；
 - 字体原始来源（部分）可参考 [文件](./sources.tsv)。
-- 更多中文字体资料可参考 <http://www.homeinmists.com/indexComputing.htm>
+- 更多中文字体资料可参考
+  - <http://www.homeinmists.com/indexComputing.htm>
+  - <https://github.com/suyanali/blog/blob/main/post/fonts/字型總集.md>
 
 > [!IMPORTANT]
 >
@@ -82,10 +84,10 @@
 - [:link: lxgw.github.io, 霞鹜开源免费字体一览](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/) ![lxgw.github.io](https://img.shields.io/github/last-commit/lxgw/lxgw.github.io?style=flat-square&path=_posts/2021-01-15-Lxgw-Opensource-Chinese-Fonts.md)
 - [:link: wangchujiang.com 王楚江 Free Font](https://wangchujiang.com/free-font/) [![](https://img.shields.io/github/last-commit/jaywcjlove/free-font?style=flat-square)](https://github.com/jaywcjlove/free-font)
 
-- <https://github.com/shampee/fonts>
-- <https://github.com/dolbydu/font>
-- <https://github.com/0ZDragon/fonts>
-- <https://github.com/dsrkafuu/misans>
+- <https://github.com/shampee/fonts> ![](https://img.shields.io/github/last-commit/shampee/fonts?style=flat-square)
+- <https://github.com/dolbydu/font> ![](https://img.shields.io/github/last-commit/dolbydu/font?style=flat-square)
+- <https://github.com/0ZDragon/fonts> ![](https://img.shields.io/github/last-commit/0ZDragon/fonts?style=flat-square)
+- <https://github.com/dsrkafuu/misans> ![](https://img.shields.io/github/last-commit/dsrkafuu/misans?style=flat-square)
 
 ### 英文字体
 
