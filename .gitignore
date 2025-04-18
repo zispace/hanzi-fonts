@@ -7,3 +7,7 @@
 trash/
 todo/
 temp/
+
+*.reg
+*.json
+*.csv
