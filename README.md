@@ -1,13 +1,16 @@
 # 汉字字体
 
-主要收录常用、优质的汉字字体，资源来自网络。
-字体版权属于原作者（字体厂商），使用时（特别是商用）请注意版权问题。
-另外，仓库中文件不一定是最新版本，可根据需要去官方下载更新。
+本仓库主要收录常用、优质的汉字字体，资源来自网络。
 
-字体统计参考见[文件](./stats.tsv)；
-字体资料（部分）原始来源可参考[文件](./sources.tsv)。
+- 字体文件统计信息可参见 [文件](./stats.tsv)；
+- 字体原始来源（部分）可参考 [文件](./sources.tsv)。
+- 更多中文字体资料可参考 <http://www.homeinmists.com/indexComputing.htm>
 
-更多中文字体资料可参考 <http://www.homeinmists.com/indexComputing.htm>
+> [!IMPORTANT]
+>
+> 字体版权属于原作者（字体厂商），使用时（特别是商用）请注意版权和相关限制。
+>
+> 另外，本仓库中文件不一定是最新版本，需要最新版、其他格式（如 OTF、WOFF 等）或英文字体，可根据需要去官方渠道下载。
 
 ## 常用字体说明
 
@@ -32,29 +35,29 @@
 |          | 方正黑体简体    | 方正 | GB2312  |
 |          | 方正黑体\_GBK   | 方正 | GBK     |
 
-### 超大字符集
+### 超大字符集字体
 
 可参考一下字体包（排名不分先后）
 
 - GlyphWiki/花园明朝体
 - 一點字坊/一点明朝体 (I.Ming)
 - 中华书局/中华书局宋体字库
-- 台湾全字庫/全字庫宋體字型檔/全字庫楷體字型檔
+- 台湾全字庫/全字庫宋體字型檔、楷體字型檔
 - 沈天珩/天珩全字库
-- MORE/Sun-Ext
-- MORE/WFG-全宋體
+- MORE/Sun-Ext （大约是海峰超大字符集/UniFonts 及其增补）
 - MORE/WFG-全宋體
 - MORE/上地宏一-字雲 Jigmo
 - MORE/开心宋体 (KaiXinSong)
 - MORE/魏安-BabelStone Han
-- MISC/vivo Sans: `vivo Sans SC L3.ttf`
+- MISC/vivo Sans `vivo Sans SC L3.ttf`
 - MISC/小米 MiSans L3
-- MISC/阿里巴巴普惠体: `AlibabaPuHuiTi-3-55-RegularL3.ttf`
-- 字语字库(CESI)/国标系列字体：`GB_ST_SUPER_GB18030.ttf` （中国电子技术标准化研究院）
+- MISC/阿里巴巴普惠体 `AlibabaPuHuiTi-3-55-RegularL3.ttf`
+- 字语字库(CESI)/国标系列字体 `GB_ST_SUPER_GB18030.ttf` （隶属中国电子技术标准化研究院，在统信、Deepin 系统中有安装）
 
 更多字体，比如“文津宋体”参见
+
 - [文件](./sources.tsv)
-- https://github.com/CNMan/UnicodeCJK-WuBi06/issues/17
+- <https://github.com/CNMan/UnicodeCJK-WuBi06/issues/17>
 
 ## 字体资源
 
@@ -79,10 +82,10 @@
 - [:link: lxgw.github.io, 霞鹜开源免费字体一览](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/) ![lxgw.github.io](https://img.shields.io/github/last-commit/lxgw/lxgw.github.io?style=flat-square&path=_posts/2021-01-15-Lxgw-Opensource-Chinese-Fonts.md)
 - [:link: wangchujiang.com 王楚江 Free Font](https://wangchujiang.com/free-font/) [![](https://img.shields.io/github/last-commit/jaywcjlove/free-font?style=flat-square)](https://github.com/jaywcjlove/free-font)
 
-- https://github.com/shampee/fonts
-- https://github.com/dolbydu/font
-- https://github.com/0ZDragon/fonts/
-- https://github.com/dsrkafuu/misans
+- <https://github.com/shampee/fonts>
+- <https://github.com/dolbydu/font>
+- <https://github.com/0ZDragon/fonts>
+- <https://github.com/dsrkafuu/misans>
 
 ### 英文字体
 
