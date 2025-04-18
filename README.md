@@ -52,7 +52,9 @@
 - MISC/阿里巴巴普惠体: `AlibabaPuHuiTi-3-55-RegularL3.ttf`
 - 字语字库(CESI)/国标系列字体：`GB_ST_SUPER_GB18030.ttf` （中国电子技术标准化研究院）
 
-更多字体，比如“文津宋体”参见[文件](./sources.tsv)
+更多字体，比如“文津宋体”参见
+- [文件](./sources.tsv)
+- https://github.com/CNMan/UnicodeCJK-WuBi06/issues/17
 
 ## 字体资源
 
