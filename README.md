@@ -138,7 +138,8 @@
 
 - 字符统计：
 
-  - [:link: NightFurySL2001/CJK-character-count: 字体汉字计数软件](https://github.com/NightFurySL2001/CJK-character-count)
+  - [:link: NightFurySL2001/CJK-character-count](https://github.com/NightFurySL2001/CJK-character-count)
+  - [:link: Honoka55/font-counter](https://github.com/Honoka55/font-counter)
 
 - 字体美化
 
