@@ -247,12 +247,15 @@ Sun-ExtB	ttf	MORE/Sun-Ext/v6.0/Sun-ExtB.ttf	47885	47082	73	730	0	0	42711	4149	22
 Jigmo Regular	ttf	MORE/上地宏一-字雲 Jigmo-20230816/Jigmo.ttf	51035	28057	9633	13345	20992	6592	1	0	0	0	0	0	0	0	472	0	0	9633
 Jigmo2 Regular	ttf	MORE/上地宏一-字雲 Jigmo-20230816/Jigmo2.ttf	63080	60954	1483	643	1	0	42720	4154	222	5762	7473	0	0	622	0	0	0	1483
 Jigmo3 Regular	ttf	MORE/上地宏一-字雲 Jigmo-20230816/Jigmo3.ttf	9233	9132	0	101	1	0	0	0	0	0	0	4939	4192	0	0	0	0	0
+康熙字典體傳承版 KangXiZiDian.com	ttf	MORE/康熙与倉頡/康熙字典體傳承版(2023) KX_47043_15.ttf	49461	49262	0	199	19199	5601	24454	0	0	2	1	0	1	0	4	0	0	0
+KangXiZiDian.com 康熙字典体常用版	ttf	MORE/康熙与倉頡/康熙字典體常用版(2022) KX_7000_13.ttf	9480	9373	0	107	9370	2	1	0	0	0	0	0	0	0	0	0	0	0
+KangXiZiDian.com 康熙字典体常用版	ttf	MORE/康熙与倉頡/康熙字典體常用版(2024) KX_7000_16ok.ttf	9586	9373	0	213	9370	2	1	0	0	0	0	0	0	0	0	0	0	0
 KaiXinSong	ttf	MORE/开心宋体 (KaiXinSong)/开心宋体2.1/KaiXinSong2.1.ttf	65428	62699	816	1913	69	1841	42711	4149	222	5762	7473	0	0	0	472	743	73	0
 KaiXinSongA	ttf	MORE/开心宋体 (KaiXinSong)/开心宋体3.0/KaiXinSongA.ttf	30714	27979	816	1919	20915	6592	0	0	0	0	0	0	0	0	472	743	73	0
 KaiXinSongB	ttf	MORE/开心宋体 (KaiXinSong)/开心宋体3.0/KaiXinSongB.ttf	65395	65360	0	35	87	10	42718	4149	222	5762	7473	4939	0	0	0	0	0	0
 KaiXinSongA Normal	ttf	MORE/开心宋体 (KaiXinSong)/开心宋体4.1/KaiXinSongA.ttf	63143	60987	816	1340	20915	6592	33008	0	0	0	0	0	0	0	472	743	73	0
 KaiXinSongB Normal	ttf	MORE/开心宋体 (KaiXinSong)/开心宋体4.1/KaiXinSongB.ttf	62662	61992	0	670	90	10	34528	4154	222	5762	7473	4939	4192	622	0	0	0	0
-shetumodengxiaofangti	ttf	MORE/摄图摩登小方体(免费商用).ttf	6977	6758	0	219	6758	0	0	0	0	0	0	0	0	0	0	0	0	0
+shetumodengxiaofangti	ttf	MORE/摄图摩登小方体.ttf	6977	6758	0	219	6758	0	0	0	0	0	0	0	0	0	0	0	0	0
 又又意宋	ttf	MORE/未知来信-又又意宋.ttf	7090	6763	2	325	6763	0	0	0	0	0	0	0	0	0	0	2	0	0
 杨任东竹石体-Bold	ttf	MORE/杨任东竹石体1.23/杨任东竹石体-Bold.ttf	7347	6774	0	573	6773	1	0	0	0	0	0	0	0	0	0	0	0	0
 杨任东竹石体-Extralight	ttf	MORE/杨任东竹石体1.23/杨任东竹石体-Extralight.ttf	7347	6774	0	573	6773	1	0	0	0	0	0	0	0	0	0	0	0	0
@@ -380,9 +383,16 @@ Microsoft YaHei Gras	ttc	微软/v6.25/msyhbd.ttc	29812	27732	0	2080	20933	6582	3
 Microsoft YaHei Gras	ttc	微软/v6.31/msyhbd.ttc	29888	27801	0	2087	20992	6592	36	44	8	108	0	0	0	0	21	0	0	0
 微软雅黑 Light	ttc	微软/v6.31/msyhl.ttc	29444	27801	0	1643	20992	6592	36	44	8	108	0	0	0	0	21	0	0	0
 YaoXingQingNianHei1.1 Regular	ttf	摇醒实验室/YaoXingQingNianHei1.1-Regular.ttf	7026	6901	0	125	6901	0	0	0	0	0	0	0	0	0	0	0	0	0
+康熙字典體 unicode	ttf	文悦/TpldKhangXiDict.ttf	16974	16967	0	7	16967	0	0	0	0	0	0	0	0	0	0	0	0	0
+康煕字典體(Demo)	ttf	文悦/TypeLand康熙字典體Demo.ttf	17156	16962	1	193	16929	2	31	0	0	0	0	0	0	0	0	1	0	0
+TpldKhangXiDictTrial	otf	文悦/TypeLand康熙字典體Trial.otf	17511	17019	2	490	16965	5	49	0	0	0	0	0	0	0	0	2	0	0
+TpldKhangXiDict	otf	文悦/TypeLand康熙字典體完整版.otf	47735	47054	70	611	16965	5604	24480	2	0	0	0	0	0	0	3	70	0	0
+TpldKhangXiDictTrial	otf	文悦/TypeLand康熙字典體試用版.otf	3211	2705	3	503	2697	1	7	0	0	0	0	0	0	0	0	3	0	0
 文悦古体仿宋 繁体 (需授权)	otf	文悦/文悦古体仿宋 WenYue_GuTiFangSong_F.otf	9273	9106	0	167	9106	0	0	0	0	0	0	0	0	0	0	0	0	0
 文悦古典明朝体 简入繁出 (需授权)	otf	文悦/文悦古典明朝体 WenYue_GuDianMingChaoTi_JRFC.otf	8799	8656	0	143	8637	13	2	0	0	4	0	0	0	0	0	0	0	0
+文悦新恒古雅宋 简入繁出 (需授权)	otf	文悦/文悦新恒古雅宋 WenYue_XHGuYaSong_JRFC.otf	6917	6774	0	143	6774	0	0	0	0	0	0	0	0	0	0	0	0	0
 文悦民国仿宋 繁体 (需授权)	otf	文悦/文悦民国仿宋 WenYue_MinGuoFangSong_F.otf	8702	8559	0	143	8446	47	58	4	1	1	1	1	0	0	0	0	0	0
+文悦聚珍仿宋	ttf	文悦/文悦聚珍仿宋.ttf	9804	7978	0	1826	7919	25	0	0	0	0	0	0	0	0	34	0	0	0
 Unibit	ttf	文泉驿/文泉驿Unibit/Unibit.ttf	46444	27832	366	18246	20902	6582	0	0	0	0	0	0	0	0	348	366	0	0
 文泉驛微米黑	ttc	文泉驿/文泉驿微米黑-0.2.0-beta/wqy-microhei-lite.ttc	34638	21236	0	13402	20932	2	0	0	0	0	0	0	0	0	302	0	0	0
 文泉驛微米黑	ttc	文泉驿/文泉驿微米黑-0.2.0-beta/wqy-microhei.ttc	34636	21236	0	13400	20932	2	0	0	0	0	0	0	0	0	302	0	0	0
