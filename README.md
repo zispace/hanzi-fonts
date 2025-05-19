@@ -95,6 +95,7 @@
 - [:link: drxie.github.io | 中文开源字体集](https://drxie.github.io/OSFCC/) ![drxie.github.io](https://img.shields.io/github/last-commit/DrXie/OSFCC?style=flat-square)
 - [:link: lxgw.github.io | 霞鹜开源免费字体一览](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/) ![lxgw.github.io](https://img.shields.io/github/last-commit/lxgw/lxgw.github.io?style=flat-square&path=_posts/2021-01-15-Lxgw-Opensource-Chinese-Fonts.md)
 - [:link: wangchujiang.com | 王楚江 Free Font](https://wangchujiang.com/free-font/) [![](https://img.shields.io/github/last-commit/jaywcjlove/free-font?style=flat-square)](https://github.com/jaywcjlove/free-font)
+- [:link: fonts.quickso.cn | 木子欢儿-快点字库](https://fonts.quickso.cn/) [![](https://img.shields.io/github/last-commit/muzihuaner/FreeFonts?style=flat-square)](https://github.com/muzihuaner/FreeFonts)
 
 - [:link: shampee/fonts](https://github.com/shampee/fonts) ![](https://img.shields.io/github/last-commit/shampee/fonts?style=flat-square)
 - [:link: dolbydu/font](https://github.com/dolbydu/font) ![](https://img.shields.io/github/last-commit/dolbydu/font?style=flat-square)
@@ -111,6 +112,7 @@
 - [fonts2u.com](https://fonts2u.com)
 - [fontsinuse.com](https://fontsinuse.com)
 - [myfonts.com](https://www.myfonts.com)
+- [fonts.ninja](https://fonts.ninja/)
 
 ### 字体许可证
 
