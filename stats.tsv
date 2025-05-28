@@ -52,12 +52,6 @@ Source Han Sans TC	otf	Adobe/思源黑体 (Source Han Sans) v2.004R/OTF/Traditio
 思源黑體 香港 Medium	otf	Adobe/思源黑体 (Source Han Sans) v2.004R/OTF/TraditionalChineseHK/SourceHanSansHC-Medium.otf	44812	30234	0	14578	20976	6582	2108	47	34	112	5	4	0	0	366	0	0	0
 思源黑體 香港 Normal	otf	Adobe/思源黑体 (Source Han Sans) v2.004R/OTF/TraditionalChineseHK/SourceHanSansHC-Normal.otf	44812	30234	0	14578	20976	6582	2108	47	34	112	5	4	0	0	366	0	0	0
 思源黑體 香港	otf	Adobe/思源黑体 (Source Han Sans) v2.004R/OTF/TraditionalChineseHK/SourceHanSansHC-Regular.otf	44812	30234	0	14578	20976	6582	2108	47	34	112	5	4	0	0	366	0	0	0
-FandolFang R	otf	Fandol/FandolFang-Regular.otf	17609	7945	2267	7397	7942	0	0	0	0	0	0	0	0	0	3	2267	0	0
-FandolHei Bold	otf	Fandol/FandolHei-Bold.otf	17543	7945	2267	7331	7942	0	0	0	0	0	0	0	0	0	3	2267	0	0
-FandolHei	otf	Fandol/FandolHei-Regular.otf	17548	7945	2267	7336	7942	0	0	0	0	0	0	0	0	0	3	2267	0	0
-FandolKai	otf	Fandol/FandolKai-Regular.otf	17605	7945	2267	7393	7942	0	0	0	0	0	0	0	0	0	3	2267	0	0
-FandolSong Bold	otf	Fandol/FandolSong-Bold.otf	17622	7945	2267	7410	7942	0	0	0	0	0	0	0	0	0	3	2267	0	0
-FandolSong	otf	Fandol/FandolSong-Regular.otf	17623	7946	2267	7410	7943	0	0	0	0	0	0	0	0	0	3	2267	0	0
 Reggae One Regular	ttf	Fontworks/ReggaeOne-Regular.ttf	8231	6758	0	1473	6714	1	5	0	0	0	0	0	0	0	38	0	0	0
 花園明朝A Regular	ttf	GlyphWiki/花园明朝体 hanazono-20170904/HanaMinA.ttf	41531	31133	1402	8996	20971	6582	2858	73	63	110	4	0	0	0	472	1402	0	0
 花園明朝B Regular	ttf	GlyphWiki/花园明朝体 hanazono-20170904/HanaMinB.ttf	60423	60322	0	101	5	0	42711	4149	222	5762	7473	0	0	0	0	0	0	0
@@ -213,6 +207,14 @@ DingTalk Sans	ttf	MISC/阿里巴巴 钉钉进步体0111/DingTalk Sans.ttf	725	0	
 阿里巴巴普惠體 TC 95 ExtraBold	ttf	MISC/阿里巴巴普惠体/AlibabaSansTC/AlibabaSansTC-95.ttf	19181	17656	12	1513	15377	573	1702	1	0	0	0	0	0	0	3	12	0	0
 Tiejili SC Regular	otf	MORE/Buernia-铁蒺藜体 (Tiejili) v1.100/TiejiliSC-Regular.otf	13121	11523	0	1598	11200	92	51	49	9	113	5	4	0	0	0	0	0	0
 Tiejili SC Regular	ttf	MORE/Buernia-铁蒺藜体 (Tiejili) v1.100/TiejiliSC-Regular.ttf	13121	11523	0	1598	11200	92	51	49	9	113	5	4	0	0	0	0	0	0
+Fandol Braille Display	otf	MORE/ClarkMa-fandol/FandolBraille-Display.otf	256	0	0	256	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Fandol Braille Regular	otf	MORE/ClarkMa-fandol/FandolBraille-Regular.otf	256	0	0	256	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FandolFang R	otf	MORE/ClarkMa-fandol/FandolFang-Regular.otf	17609	7945	2267	7397	7942	0	0	0	0	0	0	0	0	0	3	2267	0	0
+FandolHei Bold	otf	MORE/ClarkMa-fandol/FandolHei-Bold.otf	17543	7945	2267	7331	7942	0	0	0	0	0	0	0	0	0	3	2267	0	0
+FandolHei	otf	MORE/ClarkMa-fandol/FandolHei-Regular.otf	17548	7945	2267	7336	7942	0	0	0	0	0	0	0	0	0	3	2267	0	0
+FandolKai	otf	MORE/ClarkMa-fandol/FandolKai-Regular.otf	17605	7945	2267	7393	7942	0	0	0	0	0	0	0	0	0	3	2267	0	0
+FandolSong Bold	otf	MORE/ClarkMa-fandol/FandolSong-Bold.otf	17622	7945	2267	7410	7942	0	0	0	0	0	0	0	0	0	3	2267	0	0
+FandolSong	otf	MORE/ClarkMa-fandol/FandolSong-Regular.otf	17623	7946	2267	7410	7943	0	0	0	0	0	0	0	0	0	3	2267	0	0
 更纱黑体 SC Bold	ttf	MORE/LiRenzhi-更纱黑体 (SarasaGothic)/SarasaGothicSC/SarasaGothicSC-Bold.ttf	46231	30234	0	15997	20976	6582	2108	47	34	112	5	4	0	0	366	0	0	0
 更纱黑体 SC Bold Italic	ttf	MORE/LiRenzhi-更纱黑体 (SarasaGothic)/SarasaGothicSC/SarasaGothicSC-BoldItalic.ttf	46231	30234	0	15997	20976	6582	2108	47	34	112	5	4	0	0	366	0	0	0
 更纱黑体 SC XLight	ttf	MORE/LiRenzhi-更纱黑体 (SarasaGothic)/SarasaGothicSC/SarasaGothicSC-ExtraLight.ttf	46231	30234	0	15997	20976	6582	2108	47	34	112	5	4	0	0	366	0	0	0
@@ -542,6 +544,8 @@ TH-Sung-TP2	ttf	沈天珩/天珩字库-正宋 TH-Sung-T4.1.0/TH-Sung-TP2.ttf	615
 TH-Khaai-TP0	ttf	沈天珩/天珩字库-正楷 TH-Khaai-T4.0.0/TH-Khaai-TP0.ttf	52685	37187	148	15350	20992	6592	0	0	0	0	0	4939	4192	0	472	104	0	44
 TH-Khaai-TP16	ttf	沈天珩/天珩字库-正楷 TH-Khaai-T4.0.0/TH-Khaai-TP16.ttf	10146	0	10046	100	0	0	0	0	0	0	0	0	0	0	0	0	0	10046
 TH-Khaai-TP2	ttf	沈天珩/天珩字库-正楷 TH-Khaai-T4.0.0/TH-Khaai-TP2.ttf	60973	60331	0	642	0	0	42720	4154	222	5762	7473	0	0	0	0	0	0	0
+猫啃网风雅宋	ttf	猫啃网/新愚公-猫啃网风雅宋 v1.30.ttf	42767	28494	0	14273	20969	6582	389	45	33	108	3	0	0	0	365	0	0	0
+猫啃网糖圆	ttf	猫啃网/猫啃网&夜煞之乐-猫啃网糖圆体(测试版)0.12.ttf	7567	6765	0	802	6765	0	0	0	0	0	0	0	0	0	0	0	0	0
 京華老宋體	ttf	王廷瑞/京華老宋体/KingHwa_OldSong-mod (標點符號置中版from郭睿穎).ttf	38630	37065	1	1564	20992	6592	6587	971	51	1295	238	206	55	0	78	0	1	0
 京華老宋体	ttf	王廷瑞/京華老宋体/京華老宋体2.002.ttf	38627	37065	1	1561	20992	6592	6587	971	51	1295	238	206	55	0	78	0	1	0
 京華老宋体_KingHwa_OldSong	ttf	王廷瑞/京華老宋体/京華老宋体_KingHwa_OldSong1.0.ttf	38491	37053	0	1438	20992	6583	6585	971	51	1295	237	206	55	0	78	0	0	0
@@ -550,8 +554,6 @@ TH-Khaai-TP2	ttf	沈天珩/天珩字库-正楷 TH-Khaai-T4.0.0/TH-Khaai-TP2.ttf	
 汇文正楷	ttf	王廷瑞/匯文系列/匯文正楷.ttf	22298	21006	9	1283	20903	42	57	1	0	0	1	0	2	0	0	9	0	0
 汇文港黑	ttf	王廷瑞/匯文系列/匯文港黑.ttf	22516	21092	120	1304	20906	87	55	4	0	1	2	0	2	1	34	120	0	0
 汇文筑地五号明朝体	otf	王廷瑞/匯文系列/汇文築地五号明朝体1.0.otf	9817	8575	556	686	8164	162	193	11	1	16	21	0	0	0	7	556	0	0
-猫啃网风雅宋	ttf	猫啃网/新愚公-猫啃网风雅宋 v1.30.ttf	42767	28494	0	14273	20969	6582	389	45	33	108	3	0	0	0	365	0	0	0
-猫啃网糖圆	ttf	猫啃网/猫啃网&夜煞之乐-猫啃网糖圆体(测试版)0.12.ttf	7567	6765	0	802	6765	0	0	0	0	0	0	0	0	0	0	0	0	0
 王汉宗中仿宋简	ttf	王汉宗/王汉宗中仿宋简.ttf	13978	13070	366	542	13068	0	0	0	0	0	0	0	0	0	2	366	0	0
 HanWangFangSongMedium	ttf	王汉宗/王汉宗中仿宋繁.ttf	13978	13070	366	542	13068	0	0	0	0	0	0	0	0	0	2	366	0	0
 HanWangMingMedium	ttf	王汉宗/王汉宗中明体繁.ttf	13978	13070	366	542	13068	0	0	0	0	0	0	0	0	0	2	366	0	0

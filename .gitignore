@@ -11,3 +11,5 @@ temp/
 *.reg
 *.json
 *.csv
+*.sh
+temp-*
