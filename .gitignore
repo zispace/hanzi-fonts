@@ -7,3 +7,6 @@
 trash/
 todo/
 temp/
+
+*.reg
+temp-*
