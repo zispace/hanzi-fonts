@@ -77,6 +77,7 @@
 - [100font.com | 免费商用字体大全](https://www.100font.com)
 - [qiuziti.com | 求字体网](https://www.qiuziti.com)
 - [zeoseven.com | ZSFT 字体 CDN](https://fonts.zeoseven.com)
+- [foundertype.com | 国家语委/北大方正-“中华精品字库工程”](https://fl.foundertype.com/fontimg.html)
 
 - [ziyouziti.com | 自由字体](https://ziyouziti.com)
 - [sucai999.com | 字体搬运工](https://font.sucai999.com)
