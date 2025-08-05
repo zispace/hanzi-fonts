@@ -91,6 +91,7 @@
 - [zijia.com.cn | 字加网](https://www.zijia.com.cn)
 - [mfonts.cn | 字库星球](https://www.mfonts.cn)
 - [zitiquan.com | 字体圈](https://www.zitiquan.com)
+- [zitiku.org | 字体库](https://zitiku.org)
 
 - [:link: zenozeng.github.io | 免费中文字体](https://zenozeng.github.io/Free-Chinese-Fonts/) ![zenozeng.github.io](https://img.shields.io/github/last-commit/zenozeng/Free-Chinese-Fonts?style=flat-square)
 - [:link: wordshub.github.io | 字集 free-font: 2020 年最全的免费可商用字体](https://wordshub.github.io/free-font/) ![wordshub.github.io](https://img.shields.io/github/last-commit/wordshub/free-font?style=flat-square)
