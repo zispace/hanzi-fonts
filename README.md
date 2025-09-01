@@ -104,6 +104,8 @@
 - [:link: dolbydu/font](https://github.com/dolbydu/font) ![](https://img.shields.io/github/last-commit/dolbydu/font?style=flat-square)
 - [:link: 0ZDragon/fonts](https://github.com/0ZDragon/fonts) ![](https://img.shields.io/github/last-commit/0ZDragon/fonts?style=flat-square)
 - [:link: dsrkafuu/misans](https://github.com/dsrkafuu/misans) ![](https://img.shields.io/github/last-commit/dsrkafuu/misans?style=flat-square)
+- [:link: genqiaolynn/fonts](https://github.com/genqiaolynn/fonts) ![](https://img.shields.io/github/last-commit/genqiaolynn/fonts?style=flat-square)
+- [:link: yuleshow/chinese-fonts](https://github.com/yuleshow/chinese-fonts) ![](https://img.shields.io/github/last-commit/yuleshow/chinese-fonts?style=flat-square)
 
 ### 英文字体
 
