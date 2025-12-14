@@ -158,6 +158,8 @@
 - [zitiku.org | 字体库](https://zitiku.org)
 - [fontowns.com | 字体小镇](https://www.fontowns.com/)
 - [zfont.cn | 找字体](https://www.zfont.cn/)
+- [freefonts.space | 免费商用字体库](https://freefonts.space) 
+  - [figma](https://www.figma.com/community/file/1256555346586156735/https-freefonts-space)
 </details>
 
 <details>
@@ -169,6 +171,7 @@
 - [:link: lxgw.github.io | 霞鹜开源免费字体一览](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/) ![lxgw.github.io](https://img.shields.io/github/last-commit/lxgw/lxgw.github.io?style=flat-square&path=_posts/2021-01-15-Lxgw-Opensource-Chinese-Fonts.md)
 - [:link: zenozeng.github.io | 免费中文字体](https://zenozeng.github.io/Free-Chinese-Fonts/) ![zenozeng.github.io](https://img.shields.io/github/last-commit/zenozeng/Free-Chinese-Fonts?style=flat-square)
 - [:link: drxie.github.io | 中文开源字体集](https://drxie.github.io/OSFCC/) ![drxie.github.io](https://img.shields.io/github/last-commit/DrXie/OSFCC?style=flat-square)
+- [:link: wumanzoo.com | 免費、合法、可商用的繁體中文字體下載](https://wumanzoo.com/free-fonts-index/)
 
 - [:link: dsrkafuu/misans](https://github.com/dsrkafuu/misans) ![](https://img.shields.io/github/last-commit/dsrkafuu/misans?style=flat-square)
 - [:link: genqiaolynn/fonts](https://github.com/genqiaolynn/fonts) ![](https://img.shields.io/github/last-commit/genqiaolynn/fonts?style=flat-square)
@@ -193,7 +196,9 @@
 - [fonts2u.com](https://fonts2u.com)
 - [fontsinuse.com](https://fontsinuse.com)
 - [myfonts.com](https://www.myfonts.com)
-- [fonts.ninja](https://fonts.ninja/)
+- [fonts.ninja](https://fonts.ninja)
+- [fontesk.com](https://fontesk.com)
+- [uncut.wtf](https://uncut.wtf)
 
 </details>
 
