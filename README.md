@@ -22,17 +22,17 @@
 - 字体文件统计信息可参见 [字体信息统计](./字体信息统计.tsv)；
 - 字体原始来源（部分）可参考 [字体来源资料](./字体来源资料.tsv)。
 - 更多字体：
-  - 中文字体收集 [:link: zispace/hanzi-fonts-ext](https://github.com/zispace/hanzi-fonts-ext)
-  - 常见超大字符集 CJK 字体 [:link: zispace/hanzi-fonts-ext-ultra](https://github.com/zispace/hanzi-fonts-ext-ultra)
-    - 相关讨论和统计见 [:link: CNMan/UnicodeCJK-WuBi06/issues](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/17)
+  - 中文字体收集 [:link: zispace/hanzi-fonts-ext](https://github.com/zispace/hanzi-fonts-ext/)
+  - 常见超大字符集 CJK 字体 [:link: zispace/hanzi-fonts-ext-ultra](https://github.com/zispace/hanzi-fonts-ext-ultra/)
+    - 相关讨论和统计见 [:link: CNMan/UnicodeCJK-WuBi06/issues](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/17/)
 - 更多中文字体资料可参考
   - [homeinmists.com | 白雲深處人家](http://www.homeinmists.com/indexComputing.htm)
-  - [suyanali/blog | 字型總集.md](https://github.com/suyanali/blog/blob/main/post/fonts/字型總集.md)
+  - [suyanali/blog | 字型總集.md](https://github.com/suyanali/blog/blob/main/post/fonts/字型總集.md/)
   - 年度字体评测 [Warren2060/FreeFontCollection](https://github.com/Warren2060/FreeFontCollection/)
 
 ## 常用字体说明
 
-可到最新的 [![GitHub release](https://img.shields.io/github/v/release/zispace/hanzi-fonts?style=flat-square)](https://github.com/zispace/hanzi-fonts/releases/latest) 下载打包字体文件。
+可到最新的 [![GitHub release](https://img.shields.io/github/v/release/zispace/hanzi-fonts?style=flat-square)](https://github.com/zispace/hanzi-fonts/releases/latest/) 下载打包字体文件。
 
 <details>
 <summary>常用公文/系统/阅读字体等</summary>
@@ -129,57 +129,61 @@
 <details>
 <summary>字体站点（在线网站）</summary>
 
-- [Google Fonts](https://fonts.google.com)
-- [maoken.com | 猫啃网](https://www.maoken.com)
-- [fonts.net.cn | 字体天下](https://www.fonts.net.cn)
-- [zitijia.com | 字体家](https://www.zitijia.com)
-- [thosefree.com | 免费商用字体](https://www.thosefree.com/design/fonts)
-- [doany.cn | 字体有线](https://font.doany.cn)
-- [hellofont.cn | 字由](https://www.hellofont.cn)
-- [reeji.com | 锐字潮牌字库](http://www.reeji.com)
-- [zi.hi.cn | 你好字库](https://zi.hi.cn)
-- [100font.com | 免费商用字体大全](https://www.100font.com)
-- [qiuziti.com | 求字体网](https://www.qiuziti.com)
-- [zeoseven.com | ZSFT 字体 CDN](https://fonts.zeoseven.com)
+- [Google Fonts](https://fonts.google.com/)
+- [maoken.com | 猫啃网](https://www.maoken.com/)
+- [fonts.net.cn | 字体天下](https://www.fonts.net.cn/)
+- [zitijia.com | 字体家](https://www.zitijia.com/)
+- [thosefree.com | 免费商用字体](https://www.thosefree.com/design/fonts/)
+- [doany.cn | 字体有线](https://font.doany.cn/)
+- [hellofont.cn | 字由](https://www.hellofont.cn/)
+- [reeji.com | 锐字潮牌字库](http://www.reeji.com/)
+- [zi.hi.cn | 你好字库](https://zi.hi.cn/)
+- [100font.com | 免费商用字体大全](https://www.100font.com/)
+- [qiuziti.com | 求字体网](https://www.qiuziti.com/)
+- [zeoseven.com | ZSFT 字体 CDN](https://fonts.zeoseven.com/)
 - [foundertype.com | 国家语委/北大方正-“中华精品字库工程”](https://fl.foundertype.com/fontimg.html)
 
-- [ziyouziti.com | 自由字体](https://ziyouziti.com)
-- [sucai999.com | 字体搬运工](https://font.sucai999.com)
+- [ziyouziti.com | 自由字体](https://ziyouziti.com/)
+- [sucai999.com | 字体搬运工](https://font.sucai999.com/)
 - [fontmeme.com | Font Meme(中文、英文)](https://fontmeme.com/ziti/chinese-fonts/)
-- [mostfont.com | 中日韩英文字体](https://www.mostfont.com/zh-cn/font/categories/chinese)
-- [ziticq.com | 字体传奇网](https://www.ziticq.com)
-- [homefont.cn | 字体之家](https://www.homefont.cn)
-- [fontke.com | 字客网](https://www.fontke.com)
-- [fontgoods.com | 字谷网](https://www.fontgoods.com)
-- [zhaozi.cn | 找字网](https://www.zhaozi.cn)
-- [zijia.com.cn | 字加网](https://www.zijia.com.cn)
-- [mfonts.cn | 字库星球](https://www.mfonts.cn)
-- [zitiquan.com | 字体圈](https://www.zitiquan.com)
-- [zitiku.org | 字体库](https://zitiku.org)
+- [mostfont.com | 中日韩英文字体](https://www.mostfont.com/zh-cn/font/categories/chinese/)
+- [ziticq.com | 字体传奇网](https://www.ziticq.com/)
+- [homefont.cn | 字体之家](https://www.homefont.cn/)
+- [fontke.com | 字客网](https://www.fontke.com/)
+- [fontgoods.com | 字谷网](https://www.fontgoods.com/)
+- [zhaozi.cn | 找字网](https://www.zhaozi.cn/)
+- [zijia.com.cn | 字加网](https://www.zijia.com.cn/)
+- [mfonts.cn | 字库星球](https://www.mfonts.cn/)
+- [zitiquan.com | 字体圈](https://www.zitiquan.com/)
+- [zitiku.org | 字体库](https://zitiku.org/)
 - [fontowns.com | 字体小镇](https://www.fontowns.com/)
 - [zfont.cn | 找字体](https://www.zfont.cn/)
-- [freefonts.space | 免费商用字体库](https://freefonts.space) 
-  - [figma](https://www.figma.com/community/file/1256555346586156735/https-freefonts-space)
+- [freefonts.space | 免费商用字体库](https://freefonts.space/) 
+  - [figma](https://www.figma.com/community/file/1256555346586156735/https-freefonts-space/)
 </details>
 
 <details>
 <summary>字体站点（Github）</summary>
 
-- [:link: wangchujiang.com | 王楚江 Free Font](https://wangchujiang.com/free-font/) [![](https://img.shields.io/github/last-commit/jaywcjlove/free-font?style=flat-square)](https://github.com/jaywcjlove/free-font)
-- [:link: fonts.quickso.cn | 木子欢儿-快点字库](https://fonts.quickso.cn/) [![](https://img.shields.io/github/last-commit/muzihuaner/FreeFonts?style=flat-square)](https://github.com/muzihuaner/FreeFonts)
+- [:link: wangchujiang.com | 王楚江 Free Font](https://wangchujiang.com/free-font/) [![](https://img.shields.io/github/last-commit/jaywcjlove/free-font?style=flat-square)](https://github.com/jaywcjlove/free-font/)
+  - [haoziku.com](https://haoziku.com/)
+  - [font.icu](https://font.icu/)
+  - [ittools.cc](https://font.ittools.cc/)
+  - [githack.com](https://raw.githack.com/jaywcjlove/free-font/main/docs/index.html)
+- [:link: fonts.quickso.cn | 木子欢儿-快点字库](https://fonts.quickso.cn/) [![](https://img.shields.io/github/last-commit/muzihuaner/FreeFonts?style=flat-square)](https://github.com/muzihuaner/FreeFonts/)
 - [:link: wordshub.github.io | 字集 free-font: 2020 年最全的免费可商用字体](https://wordshub.github.io/free-font/) ![wordshub.github.io](https://img.shields.io/github/last-commit/wordshub/free-font?style=flat-square)
 - [:link: lxgw.github.io | 霞鹜开源免费字体一览](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/) ![lxgw.github.io](https://img.shields.io/github/last-commit/lxgw/lxgw.github.io?style=flat-square&path=_posts/2021-01-15-Lxgw-Opensource-Chinese-Fonts.md)
 - [:link: zenozeng.github.io | 免费中文字体](https://zenozeng.github.io/Free-Chinese-Fonts/) ![zenozeng.github.io](https://img.shields.io/github/last-commit/zenozeng/Free-Chinese-Fonts?style=flat-square)
 - [:link: drxie.github.io | 中文开源字体集](https://drxie.github.io/OSFCC/) ![drxie.github.io](https://img.shields.io/github/last-commit/DrXie/OSFCC?style=flat-square)
 - [:link: wumanzoo.com | 免費、合法、可商用的繁體中文字體下載](https://wumanzoo.com/free-fonts-index/)
 
-- [:link: dsrkafuu/misans](https://github.com/dsrkafuu/misans) ![](https://img.shields.io/github/last-commit/dsrkafuu/misans?style=flat-square)
-- [:link: genqiaolynn/fonts](https://github.com/genqiaolynn/fonts) ![](https://img.shields.io/github/last-commit/genqiaolynn/fonts?style=flat-square)
-- [:link: 0ZDragon/fonts](https://github.com/0ZDragon/fonts) ![](https://img.shields.io/github/last-commit/0ZDragon/fonts?style=flat-square)
-- [:link: keqingrong/system-fonts](https://github.com/keqingrong/system-fonts) ![](https://img.shields.io/github/last-commit/keqingrong/system-fonts?style=flat-square)
-- [:link: yuleshow/chinese-fonts](https://github.com/yuleshow/chinese-fonts) ![](https://img.shields.io/github/last-commit/yuleshow/chinese-fonts?style=flat-square)
-- [:link: shampee/fonts](https://github.com/shampee/fonts) ![](https://img.shields.io/github/last-commit/shampee/fonts?style=flat-square)
-- [:link: dolbydu/font](https://github.com/dolbydu/font) ![](https://img.shields.io/github/last-commit/dolbydu/font?style=flat-square)
+- [:link: dsrkafuu/misans](https://github.com/dsrkafuu/misans/) ![](https://img.shields.io/github/last-commit/dsrkafuu/misans?style=flat-square)
+- [:link: genqiaolynn/fonts](https://github.com/genqiaolynn/fonts/) ![](https://img.shields.io/github/last-commit/genqiaolynn/fonts?style=flat-square)
+- [:link: 0ZDragon/fonts](https://github.com/0ZDragon/fonts/) ![](https://img.shields.io/github/last-commit/0ZDragon/fonts?style=flat-square)
+- [:link: keqingrong/system-fonts](https://github.com/keqingrong/system-fonts/) ![](https://img.shields.io/github/last-commit/keqingrong/system-fonts?style=flat-square)
+- [:link: yuleshow/chinese-fonts](https://github.com/yuleshow/chinese-fonts/) ![](https://img.shields.io/github/last-commit/yuleshow/chinese-fonts?style=flat-square)
+- [:link: shampee/fonts](https://github.com/shampee/fonts/) ![](https://img.shields.io/github/last-commit/shampee/fonts?style=flat-square)
+- [:link: dolbydu/font](https://github.com/dolbydu/font/) ![](https://img.shields.io/github/last-commit/dolbydu/font?style=flat-square)
 
 </details>
 
@@ -188,17 +192,19 @@
 <details>
 <summary>英文字体</summary>
 
-- [fontspace.com](https://www.fontspace.com)
-- [dafont.com](https://www.dafont.com)
-- [fontsquirrel.com](https://www.fontsquirrel.com)
-- [fontshare.com](https://www.fontshare.com)
-- [1001fonts.com](https://www.1001fonts.com)
-- [fonts2u.com](https://fonts2u.com)
-- [fontsinuse.com](https://fontsinuse.com)
-- [myfonts.com](https://www.myfonts.com)
-- [fonts.ninja](https://fonts.ninja)
-- [fontesk.com](https://fontesk.com)
-- [uncut.wtf](https://uncut.wtf)
+- [fontspace.com](https://www.fontspace.com/)
+- [dafont.com](https://www.dafont.com/)
+- [fontsquirrel.com](https://www.fontsquirrel.com/)
+- [fontshare.com](https://www.fontshare.com/)
+- [1001fonts.com](https://www.1001fonts.com/)
+- [fonts2u.com](https://fonts2u.com/)
+- [fontsinuse.com](https://fontsinuse.com/)
+- [myfonts.com](https://www.myfonts.com/)
+- [fonts.ninja](https://fonts.ninja/)
+- [fontesk.com](https://fontesk.com/)
+- [uncut.wtf](https://uncut.wtf/)
+- [fontsource.org](https://fontsource.org/) [fontsource/fontsource](https://github.com/fontsource/fontsource/)
+- [freefaces.gallery](https://www.freefaces.gallery/)
 
 </details>
 
@@ -215,20 +221,20 @@
 
 - 字体管理：
 
-  - [FontBase](https://fontba.se) Windows / macOS / Linux
+  - [FontBase](https://fontba.se/) Windows / macOS / Linux
   - [字由](https://www.hellofont.cn/): Windows / macOS
   - [以方 iFonts](https://www.ifonts.com/): Windows / macOS
-  - [RightFont](https://rightfontapp.com): macOS
+  - [RightFont](https://rightfontapp.com/): macOS
   - [Nexus Font](https://www.xiles.app/index.html): Windows
-  - [:link: Font Manager](https://github.com/FontManager/font-manager): Linux (限 GTK 桌面)
+  - [:link: Font Manager](https://github.com/FontManager/font-manager/): Linux (限 GTK 桌面)
 
 - 字符统计：
 
-  - [:link: NightFurySL2001/CJK-character-count](https://github.com/NightFurySL2001/CJK-character-count)
-  - [:link: Honoka55/font-counter](https://github.com/Honoka55/font-counter)
+  - [:link: NightFurySL2001/CJK-character-count](https://github.com/NightFurySL2001/CJK-character-count/)
+  - [:link: Honoka55/font-counter](https://github.com/Honoka55/font-counter/)
 
 - 字体美化：
 
-  - [:link: Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI): Windows system font setting tool on Windows 8.1/10/11.
-  - [:link: snowie2000/mactype](https://github.com/snowie2000/mactype): Better font rendering for Windows.
-  - [:link: chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont): A webfont package for the LXGW WenKai typeface.
+  - [:link: Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI/): Windows system font setting tool on Windows 8.1/10/11.
+  - [:link: snowie2000/mactype](https://github.com/snowie2000/mactype/): Better font rendering for Windows.
+  - [:link: chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont/): A webfont package for the LXGW WenKai typeface.
