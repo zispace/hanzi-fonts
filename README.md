@@ -212,10 +212,13 @@
 
 常见的（开源）字体许可协议包括:
 
-- `SIL Open Font License`：字体专门的许可证，这是真正的开源许可证,允许商业使用、修改、分发。
-- `Apache License`：软件（代码）许可证，用户可以自由使用、分发和修改字体。
-- `MIT License`：软件（代码）许可证，一个非常宽松的协议，用户可以做商业使用而不需要支付版税。
-- `Creative Commons License`：著作权（版权）许可证，有多种类型，用户可以共享、修改字体，但需要署名，有些类型不允许商业使用。
+- `SIL Open Font License`(**OFL**)：字体专门的许可证，现代开源字体常用许可证，允许商业使用、修改、分发；但修改后字体必须改名、不可单独售卖字体文件。[OFL-FAQ (1.1-update7)](https://openfontlicense.org/ofl-faq/)
+- `IPA Font License Agreement`(**IPA**)：日本信息处理推进机构（IPA）发布的一种开源字体许可证，在日本字体中常见，理念接近OFL。 [IPA FONT LICENSE AGREEMENT V1.0](https://moji.or.jp/ipafont/license/)
+- `Apache License`：软件（代码）许可证，比 OFL 稍宽松，用户可以自由使用、分发和修改字体，但需要保留版权声明。 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+- `MIT License`：软件（代码）许可证，一个非常宽松的协议，用户可以做商业使用而不需要支付版税，字体领域较少使用。[The MIT License (MIT)](https://mit-license.org/)
+- GPL / LGPL：软件（代码）许可证，免费，但是商用或者修改分发限制较多。[GNU Licenses](https://www.gnu.org/licenses/)
+- `Creative Commons License`：著作权（版权）许可证，有多种版本类型，用户可以共享、修改字体，但需要署名，有些类型不允许商业使用。[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- 更多开源许可：[OSI Approved Licenses](https://opensource.org/licenses)
 
 ### 字体软件
 
