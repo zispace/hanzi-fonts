@@ -1,11 +1,11 @@
 # 汉字字体收藏
 
-<!-- ![GitHub stars](https://img.shields.io/github/stars/zispace/hanzi-fonts?style=for-the-badge) -->
-<!-- ![GitHub forks](https://img.shields.io/github/forks/zispace/hanzi-fonts?style=for-the-badge) -->
-<!-- ![GitHub downloads](https://img.shields.io/github/downloads/zispace/hanzi-fonts/total?style=for-the-badge) -->
+![GitHub stars](https://img.shields.io/github/stars/zispace/hanzi-fonts?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/zispace/hanzi-fonts?style=for-the-badge)
 ![GitHub release](https://img.shields.io/github/v/release/zispace/hanzi-fonts?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zispace/hanzi-fonts?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/zispace/hanzi-fonts?style=for-the-badge)
+![GitHub downloads](https://img.shields.io/github/downloads/zispace/hanzi-fonts/total?style=for-the-badge)
 
 本仓库主要收录常用、优质的汉字字体，资源收集自网络。
 
@@ -23,19 +23,25 @@
 - 字体原始来源（部分）可参考 [字体来源资料](./字体来源资料.tsv)。
 - 更多字体：
   - 中文字体收集 [:link: zispace/hanzi-fonts-ext](https://github.com/zispace/hanzi-fonts-ext/)
-  - 常见超大字符集 CJK 字体 [:link: zispace/hanzi-fonts-ext-ultra](https://github.com/zispace/hanzi-fonts-ext-ultra/)
+  ![][hanzi-fonts-ext-commit]
+  - 常见超大字符集 CJK 字体 [:link: zispace/hanzi-fonts-ultra](https://github.com/zispace/hanzi-fonts-ultra/)
+  ![][hanzi-fonts-ultra-commit]
     - 相关讨论和统计见 [:link: CNMan/UnicodeCJK-WuBi06/issues](https://github.com/CNMan/UnicodeCJK-WuBi06/issues/17/)
 - 更多中文字体资料可参考
   - [homeinmists.com | 白雲深處人家](http://www.homeinmists.com/indexComputing.htm)
-  - [suyanali/blog | 字型總集.md](https://github.com/suyanali/blog/blob/main/post/fonts/字型總集.md/)
+  - [suyanali/blog | 字型總集.md](https://github.com/suyanali/blog/blob/main/post/fonts/字型總集.md)
+  ![][suyanali-commit]
   - 年度字体评测 [Warren2060/FreeFontCollection](https://github.com/Warren2060/FreeFontCollection/)
+  ![][freefontcollection-commit]
+
+[hanzi-fonts-ext-commit]: https://img.shields.io/github/last-commit/zispace/hanzi-fonts-ext?style=flat-square
+[hanzi-fonts-ultra-commit]: https://img.shields.io/github/last-commit/zispace/hanzi-fonts-ultra?style=flat-square
+[suyanali-commit]: https://img.shields.io/github/last-commit/suyanali/blog?style=flat-square
+[freefontcollection-commit]: https://img.shields.io/github/last-commit/Warren2060/FreeFontCollection?style=flat-square
 
 ## 常用字体说明
 
 可到最新的 [![GitHub release](https://img.shields.io/github/v/release/zispace/hanzi-fonts?style=flat-square)](https://github.com/zispace/hanzi-fonts/releases/latest/) 下载打包字体文件。
-
-<details>
-<summary>常用公文/系统/阅读字体等</summary>
 
 ### 公文常用字体
 
@@ -66,6 +72,9 @@
 
 ### 系统字体
 
+<details>
+<summary>系统字体</summary>
+
 除了操作系统（PC/MAC/手机）自带系统，可以使用手机厂商联合开发的字体：
 
 - 华为鸿蒙 HarmonyOS Sans
@@ -75,8 +84,12 @@
 
 或者使用网友[:link: 远景论坛@碧海潮声](https://bbs.pcbeta.com/viewthread-1960120-1-1.html)整合改进字体包。
 
+</details>
+
 ### 阅读字体
 
+<details>
+<summary>阅读字体</summary>
 - 黑体
   - 方正悠黑
   - 汉仪旗黑
@@ -107,7 +120,12 @@
   - 匯文仿宋
   - 朱雀仿宋
 
+</details>
+
 ### 特色字体
+
+<details>
+<summary>特色字体</summary>
 
 - 上海摩登体
 - 黄令東齊伋體
@@ -160,30 +178,47 @@
 - [zfont.cn | 找字体](https://www.zfont.cn/)
 - [freefonts.space | 免费商用字体库](https://freefonts.space/) 
   - [figma](https://www.figma.com/community/file/1256555346586156735/https-freefonts-space/)
+- [wumanzoo.com | 免費、合法、可商用的繁體中文字體下載](https://wumanzoo.com/free-fonts-index/)
+
 </details>
 
 <details>
 <summary>字体站点（Github）</summary>
 
-- [:link: wangchujiang.com | 王楚江 Free Font](https://wangchujiang.com/free-font/) [![](https://img.shields.io/github/last-commit/jaywcjlove/free-font?style=flat-square)](https://github.com/jaywcjlove/free-font/)
+- [wangchujiang.com | 王楚江 Free Font](https://wangchujiang.com/free-font/) 
+  [:link: jaywcjlove/free-font](https://github.com/jaywcjlove/free-font/)
+  ![](https://img.shields.io/github/last-commit/jaywcjlove/free-font?style=flat-square)
   - [haoziku.com](https://haoziku.com/)
   - [font.icu](https://font.icu/)
   - [ittools.cc](https://font.ittools.cc/)
   - [githack.com](https://raw.githack.com/jaywcjlove/free-font/main/docs/index.html)
-- [:link: fonts.quickso.cn | 木子欢儿-快点字库](https://fonts.quickso.cn/) [![](https://img.shields.io/github/last-commit/muzihuaner/FreeFonts?style=flat-square)](https://github.com/muzihuaner/FreeFonts/)
-- [:link: wordshub.github.io | 字集 free-font: 2020 年最全的免费可商用字体](https://wordshub.github.io/free-font/) ![wordshub.github.io](https://img.shields.io/github/last-commit/wordshub/free-font?style=flat-square)
-- [:link: lxgw.github.io | 霞鹜开源免费字体一览](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/) ![lxgw.github.io](https://img.shields.io/github/last-commit/lxgw/lxgw.github.io?style=flat-square&path=_posts/2021-01-15-Lxgw-Opensource-Chinese-Fonts.md)
-- [:link: zenozeng.github.io | 免费中文字体](https://zenozeng.github.io/Free-Chinese-Fonts/) ![zenozeng.github.io](https://img.shields.io/github/last-commit/zenozeng/Free-Chinese-Fonts?style=flat-square)
-- [:link: drxie.github.io | 中文开源字体集](https://drxie.github.io/OSFCC/) ![drxie.github.io](https://img.shields.io/github/last-commit/DrXie/OSFCC?style=flat-square)
-- [:link: wumanzoo.com | 免費、合法、可商用的繁體中文字體下載](https://wumanzoo.com/free-fonts-index/)
+- [fonts.quickso.cn | 木子欢儿-快点字库](https://fonts.quickso.cn/) 
+  [:link: muzihuaner/FreeFonts](https://github.com/muzihuaner/FreeFonts/)
+  ![](https://img.shields.io/github/last-commit/muzihuaner/FreeFonts?style=flat-square)
+- [:link: wordshub.github.io | 字集 free-font: 2020 年最全的免费可商用字体](https://wordshub.github.io/free-font/)
+  [:link: wordshub/free-font](https://github.com/wordshub/free-font/)
+  ![wordshub.github.io](https://img.shields.io/github/last-commit/wordshub/free-font?style=flat-square)
+- [:link: lxgw.github.io | 霞鹜开源免费字体一览](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)
+  ![lxgw.github.io](https://img.shields.io/github/last-commit/lxgw/lxgw.github.io?style=flat-square&path=_posts/2021-01-15-Lxgw-Opensource-Chinese-Fonts.md)
+- [:link: zenozeng.github.io | 免费中文字体](https://zenozeng.github.io/Free-Chinese-Fonts/)
+  ![zenozeng.github.io](https://img.shields.io/github/last-commit/zenozeng/Free-Chinese-Fonts?style=flat-square)
+- [:link: drxie.github.io | 中文开源字体集](https://drxie.github.io/OSFCC/)
+  ![drxie.github.io](https://img.shields.io/github/last-commit/DrXie/OSFCC?style=flat-square)
 
-- [:link: dsrkafuu/misans](https://github.com/dsrkafuu/misans/) ![](https://img.shields.io/github/last-commit/dsrkafuu/misans?style=flat-square)
-- [:link: genqiaolynn/fonts](https://github.com/genqiaolynn/fonts/) ![](https://img.shields.io/github/last-commit/genqiaolynn/fonts?style=flat-square)
-- [:link: 0ZDragon/fonts](https://github.com/0ZDragon/fonts/) ![](https://img.shields.io/github/last-commit/0ZDragon/fonts?style=flat-square)
-- [:link: keqingrong/system-fonts](https://github.com/keqingrong/system-fonts/) ![](https://img.shields.io/github/last-commit/keqingrong/system-fonts?style=flat-square)
-- [:link: yuleshow/chinese-fonts](https://github.com/yuleshow/chinese-fonts/) ![](https://img.shields.io/github/last-commit/yuleshow/chinese-fonts?style=flat-square)
-- [:link: shampee/fonts](https://github.com/shampee/fonts/) ![](https://img.shields.io/github/last-commit/shampee/fonts?style=flat-square)
-- [:link: dolbydu/font](https://github.com/dolbydu/font/) ![](https://img.shields.io/github/last-commit/dolbydu/font?style=flat-square)
+- [:link: dsrkafuu/misans](https://github.com/dsrkafuu/misans/)
+  ![](https://img.shields.io/github/last-commit/dsrkafuu/misans?style=flat-square)
+- [:link: genqiaolynn/fonts](https://github.com/genqiaolynn/fonts/)
+  ![](https://img.shields.io/github/last-commit/genqiaolynn/fonts?style=flat-square)
+- [:link: 0ZDragon/fonts](https://github.com/0ZDragon/fonts/)
+  ![](https://img.shields.io/github/last-commit/0ZDragon/fonts?style=flat-square)
+- [:link: keqingrong/system-fonts](https://github.com/keqingrong/system-fonts/)
+  ![](https://img.shields.io/github/last-commit/keqingrong/system-fonts?style=flat-square)
+- [:link: yuleshow/chinese-fonts](https://github.com/yuleshow/chinese-fonts/)
+  ![](https://img.shields.io/github/last-commit/yuleshow/chinese-fonts?style=flat-square)
+- [:link: shampee/fonts](https://github.com/shampee/fonts/)
+  ![](https://img.shields.io/github/last-commit/shampee/fonts?style=flat-square)
+- [:link: dolbydu/font](https://github.com/dolbydu/font/)
+  ![](https://img.shields.io/github/last-commit/dolbydu/font?style=flat-square)
 
 </details>
 
@@ -203,8 +238,15 @@
 - [fonts.ninja](https://fonts.ninja/)
 - [fontesk.com](https://fontesk.com/)
 - [uncut.wtf](https://uncut.wtf/)
-- [fontsource.org](https://fontsource.org/) [fontsource/fontsource](https://github.com/fontsource/fontsource/)
 - [freefaces.gallery](https://www.freefaces.gallery/)
+- [beautifulwebtype.com](https://beautifulwebtype.com/)
+- [open-foundry.com](https://open-foundry.com)
+- [fontstruct.com/gallery](https://fontstruct.com/gallery)
+- [fontsource.org](https://fontsource.org/)
+  [:link: fontsource/fontsource](https://github.com/fontsource/fontsource/)
+  ![](https://img.shields.io/github/last-commit/fontsource/fontsource?style=flat-square)
+- [:link: brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts/)
+  ![](https://img.shields.io/github/last-commit/brabadu/awesome-fonts?style=flat-square)
 
 </details>
 
@@ -230,14 +272,26 @@
   - [RightFont](https://rightfontapp.com/): macOS
   - [Nexus Font](https://www.xiles.app/index.html): Windows
   - [:link: Font Manager](https://github.com/FontManager/font-manager/): Linux (限 GTK 桌面)
+    ![](https://img.shields.io/github/stars/FontManager/font-manager?style=flat-square)
+    ![](https://img.shields.io/github/v/release/FontManager/font-manager?style=flat-square)
 
 - 字符统计：
 
   - [:link: NightFurySL2001/CJK-character-count](https://github.com/NightFurySL2001/CJK-character-count/)
+    ![](https://img.shields.io/github/stars/NightFurySL2001/CJK-character-count?style=flat-square)
+    ![](https://img.shields.io/github/v/release/NightFurySL2001/CJK-character-count?style=flat-square)
   - [:link: Honoka55/font-counter](https://github.com/Honoka55/font-counter/)
+    ![](https://img.shields.io/github/stars/Honoka55/font-counter?style=flat-square)
+    ![](https://img.shields.io/github/v/release/Honoka55/font-counter?style=flat-square)
 
 - 字体美化：
 
-  - [:link: Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI/): Windows system font setting tool on Windows 8.1/10/11.
+  - [:link: Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI/): Windows system font setting tool on Windows 8.1/10/11. 
+    ![](https://img.shields.io/github/stars/Tatsu-syo/noMeiryoUI?style=flat-square)
+    ![](https://img.shields.io/github/v/release/Tatsu-syo/noMeiryoUI?style=flat-square)
   - [:link: snowie2000/mactype](https://github.com/snowie2000/mactype/): Better font rendering for Windows.
+    ![](https://img.shields.io/github/stars/snowie2000/mactype?style=flat-square)
+    ![](https://img.shields.io/github/v/release/snowie2000/mactype?style=flat-square)
   - [:link: chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont/): A webfont package for the LXGW WenKai typeface.
+    ![](https://img.shields.io/github/stars/chawyehsu/lxgw-wenkai-webfont?style=flat-square)
+    ![](https://img.shields.io/github/v/release/chawyehsu/lxgw-wenkai-webfont?style=flat-square)
