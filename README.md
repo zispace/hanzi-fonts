@@ -104,9 +104,8 @@
 - [:link: chris-short/apple-san-francisco-pro-fonts](https://github.com/chris-short/apple-san-francisco-pro-fonts) ![](https://img.shields.io/github/stars/chris-short/apple-san-francisco-pro-fonts?style=flat-square)
 - [:link: pjobson/Apple-Fonts](https://github.com/pjobson/Apple-Fonts) ![](https://img.shields.io/github/stars/pjobson/Apple-Fonts?style=flat-square)
 - [:link: aisgbnok/Apple-Fonts](https://github.com/aisgbnok/Apple-Fonts) ![](https://img.shields.io/github/stars/aisgbnok/Apple-Fonts?style=flat-square)
-- [:link: gxanshu/otf-apple-fonts](https://github.com/gxanshu/otf-apple-fonts) ![](https://img.shields.io/github/stars/gxanshu/otf-apple-fonts?style=flat-square)
 - [:link: mikage-961pro/Apple-Fonts](https://github.com/mikage-961pro/Apple-Fonts) ![](https://img.shields.io/github/stars/mikage-961pro/Apple-Fonts?style=flat-square)
-- [:link: 0xsharkboy/Apple-Fonts-Collection](https://github.com/0xsharkboy/Apple-Fonts-Collection) ![](https://img.shields.io/github/stars/0xsharkboy/Apple-Fonts-Collection?style=flat-square)
+- [:link: gxanshu/otf-apple-fonts](https://github.com/gxanshu/otf-apple-fonts) ![](https://img.shields.io/github/stars/gxanshu/otf-apple-fonts?style=flat-square)
 - [:link: 0xsharkboy/Apple-Fonts-Collection](https://github.com/0xsharkboy/Apple-Fonts-Collection) ![](https://img.shields.io/github/stars/0xsharkboy/Apple-Fonts-Collection?style=flat-square)
 
 </details>
@@ -241,45 +240,46 @@
 
 ### 字体管理
 
-| 软件             | 网址                                              | 费用 | 备注                                   |
-| ---------------- | ------------------------------------------------- | ---- | -------------------------------------- |
-| flipping typical | https://flippingtypical.com/                      | | Web 浏览器网页管理字体                 |
-| Nexus Font       | https://www.xiles.app/index.html                  | | Windows                                |
-| FontManager      | [:link: FontManager/font-manager][fontmanager]    | | Linux（限 GTK 桌面）                   |
-| fontmatrix       | [:link:fontmatrix/fontmatrix][fontmatrix]         | | Linux, macOS, and Windows 不再更新     |
-| FontBase         | https://fontba.se/                                | 收费 | Windows / macOS / Linux                |
-| Eagle            | https://www.eagle.cool/                           | 收费 | Windows / macOS 设计文件及图像管理工具 |
-| RightFont        | https://rightfontapp.com/                         | 收费 | macOS                                  |
-| Connect Fonts    | https://www.extensis.com/products/connect-insight | 收费 | Windows / macOS / Web                  |
-| Typeface 3       | https://typefaceapp.com/                          | 收费 | |
-| FontExpert       | https://proximasoftware.com/fontexpert/           | 收费 | Windows                                |
-| 字由             | https://www.hellofont.cn/                         | | Windows / macOS                        |
-| 以方 iFonts      | https://www.ifonts.com/                           | | Windows / macOS                        |
+| 软件             | 网址                                                | 费用 | 备注                                   |
+| ---------------- | --------------------------------------------------- | ---- | -------------------------------------- |
+| flipping typical | <https://flippingtypical.com/>                      |      | Web 浏览器网页管理字体                 |
+| Nexus Font       | <https://www.xiles.app/index.html>                  |      | Windows                                |
+| FontManager      | [:link: FontManager/font-manager][fontmanager]      |      | Linux（限 GTK 桌面）                   |
+| fontmatrix       | [:link:fontmatrix/fontmatrix][fontmatrix]           |      | Linux, macOS, and Windows 不再更新     |
+| FontBase         | <https://fontba.se/>                                | 收费 | Windows / macOS / Linux                |
+| Eagle            | <https://www.eagle.cool/>                           | 收费 | Windows / macOS 设计文件及图像管理工具 |
+| RightFont        | <https://rightfontapp.com/>                         | 收费 | macOS                                  |
+| Connect Fonts    | <https://www.extensis.com/products/connect-insight> | 收费 | Windows / macOS / Web                  |
+| Typeface 3       | <https://typefaceapp.com/>                          | 收费 |                                        |
+| FontExpert       | <https://proximasoftware.com/fontexpert/>           | 收费 | Windows                                |
+| 字由             | <https://www.hellofont.cn/>                         |      | Windows / macOS                        |
+| 以方 iFonts      | <https://www.ifonts.com/>                           |      | Windows / macOS                        |
 
 [fontmanager]: https://github.com/FontManager/font-manager
 [fontmatrix]: https://github.com/fontmatrix/fontmatrix
 
-### 字体开发\*\*
+### 字体开发
 
 补充修订自 `DeerTears/Free-or-Affordable-Font-Tools` [:link: Masterlist.md][deertears]
 
-| 软件                 | 系统          | 账号 | 收费        | 网站                                                              |
-| -------------------- | ------------- | ---- | ----------- | ----------------------------------------------------------------- |
-| **FontForge**        | All           | | Free        | https://fontforge.org/<br>[:link: fontforge/fontforge][fontforge] |
-| BitfontMaker         | Browser       | No   | Free        | https://www.pentacom.jp/pentacom/bitfontmaker2/                   |
-| Fontstruct           | Browser       | Yes  | Free        | https://fontstruct.com                                            |
-| Caligraphr           | Browser       | Yes  | Free / Paid | https://www.calligraphr.com/en/                                   |
-| Cooltext             | Browser       | No   | Free        | https://cooltext.com                                              |
-| Metaflop Modulator   | Browser       | No   | Free        | https://www.metaflop.com/modulator                                |
-| PixelFont            | All           | No   | Free        | https://yellowafterlife.itch.io/pixelfont                         |
-| Monobit              | All           | No   | Free        | [:link: robhagemans/monobit][monobit]                             |
-| Microsoft Font Maker | Windows       | | Free        | https://apps.microsoft.com/detail/9n9209f8s3vc                    |
-| EduOffice 我的字     | Windows       | |             | |
-| ---                  | ---           | ---  | ---         | ---                                                               |
-| **Glyphs** 3         | Mac           | | €49 / €299  | https://glyphsapp.com/                                            |
-| **Fontlab** 8        | Windows, Mac  | | $97 ~ $499  | https://www.fontlab.com/                                          |
-| **FontCreator** 15   | Windows       | | $49 ~ $199  | https://www.high-logic.com/font-editor/fontcreator                |
-| iFontMaker           | Windows, iPad | | $5          | http://eijtom.com/ifontmaker-win/                                 |
+| 软件                 | 系统          | 账号 | 收费        | 网站                                                                |
+| -------------------- | ------------- | ---- | ----------- | ------------------------------------------------------------------- |
+| **FontForge**        | All           |      | Free        | <https://fontforge.org/<br>[:link:> fontforge/fontforge][fontforge] |
+| BitfontMaker         | Browser       | No   | Free        | <https://www.pentacom.jp/pentacom/bitfontmaker2/>                   |
+| Fontstruct           | Browser       | Yes  | Free        | <https://fontstruct.com>                                            |
+| Caligraphr           | Browser       | Yes  | Free / Paid | <https://www.calligraphr.com/en/>                                   |
+| Cooltext             | Browser       | No   | Free        | <https://cooltext.com>                                              |
+| Metaflop Modulator   | Browser       | No   | Free        | <https://www.metaflop.com/modulator>                                |
+| PixelFont            | All           | No   | Free        | <https://yellowafterlife.itch.io/pixelfont>                         |
+| Monobit              | All           | No   | Free        | [:link: robhagemans/monobit][monobit]                               |
+| Microsoft Font Maker | Windows       |      | Free        | <https://apps.microsoft.com/detail/9n9209f8s3vc>                    |
+| EduOffice 我的字     | Windows       |      |             |                                                                     |
+| ---                  | ---           | ---  | ---         | ---                                                                 |
+| **Glyphs** 3         | Mac           |      | €49 / €299  | <https://glyphsapp.com/>                                            |
+| **Fontlab** 8        | Windows, Mac  |      | $97 ~ $499  | <https://www.fontlab.com/>                                          |
+| **FontCreator** 15   | Windows       |      | $49 ~ $199  | <https://www.high-logic.com/font-editor/fontcreator>                |
+| iFontMaker           | Windows, iPad |      | $5          | <http://eijtom.com/ifontmaker-win/>                                 |
+| RoboFont 4           | Mac           |      | €40         | <https://robofont.com>                                              |
 
 [deertears]: https://github.com/DeerTears/Free-or-Affordable-Font-Tools/blob/master/Masterlist.md
 [monobit]: https://github.com/robhagemans/monobit
